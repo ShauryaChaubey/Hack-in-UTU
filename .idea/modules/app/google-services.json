@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209898281092",
+    "firebase_url": "https://hack-utu.firebaseio.com",
+    "project_id": "hack-utu",
+    "storage_bucket": "hack-utu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209898281092:android:61517c808c5f5f92b48ad1",
+        "android_client_info": {
+          "package_name": "com.example.hackutu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209898281092-fpfs655fsj1f131l7eotkoh5008dpagl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackutu",
+            "certificate_hash": "8ef57afa546cd13cac06cc4cdc6c4198d2780ff5"
+          }
+        },
+        {
+          "client_id": "209898281092-ooj5o95n0iqqr8a1qj1bjaslngrvedus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmf_9T1cnAGClV6gSbp-AFhOXpaEDM1eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209898281092-ooj5o95n0iqqr8a1qj1bjaslngrvedus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
